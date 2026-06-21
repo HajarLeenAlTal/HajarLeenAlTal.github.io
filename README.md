@@ -1,9 +1,22 @@
-# HajarLeenAlTal.github.io
+# Hajar Leen Al-Tal
 
-Personal GitHub Pages site for scientific posters, research projects, and portfolio materials.
+Biology Major | Chemistry Minor
 
-## How to add a poster
+@Suffolk University
 
-1. Save the poster PDF inside the `posters` folder.
-2. Rename it with a simple file name, for example: `cftr-poster.pdf`.
-3. Update `index.html` if you add another poster card.
+## Research Interests
+- Molecular Biology
+- Genetic Engineering
+- Biotechnology
+- Drug Development
+- Rare Disease Research
+
+## Research Posters
+
+### CFTR Variant Therapeutic Response Project
+[View Poster](posters/CFTR_Poster.pdf)
+
+---
+
+LinkedIn:
+www.linkedin.com/in/hajar-leen-al-tal-988509311
