@@ -14,7 +14,7 @@ Biology Major | Chemistry Minor
 ## Research Posters
 
 ### CFTR Variant Therapeutic Response Project
-[View Poster](posters/CFTR_Poster.pdf)
+[View Poster](https://hajarleenaltal.github.io/posters/CFTR_Poster.pdf)
 
 ---
 
